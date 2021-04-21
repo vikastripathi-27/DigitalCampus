@@ -1,0 +1,46 @@
+h3 {
+	color: #d0d5db;
+}
+
+h2 {
+	color: white;
+}
+
+.dashboard-title {
+	color: black;
+}
+
+.dashboard-message {
+	color: #3b3939;
+}
+
+.dashboard-others {
+	color: #7d7d7d;
+	float: left;
+	width: 50%;
+}
+
+.dashboard-others2 {
+	color: #7d7d7d;
+	float: right;
+	width: 50%; 
+	text-align: right;
+}
+
+.doc-upload {
+	margin:0 auto;
+    display:block;
+}
+
+.doc-title {
+	color: black;
+}
+
+.folder-head {
+	color: black;
+}
+
+hr {
+	height: 2px; 
+    background: #8e9091; 
+}

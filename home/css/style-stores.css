@@ -1,0 +1,86 @@
+/*profile page*/
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.profile {
+  text-align: left;
+  color: black;
+}
+
+.profile-img {
+	float: right;
+	margin-top: 50px;
+	width: 320px;
+  	height: 350px;
+  	border: 2px solid #000000;
+}
+
+.user-acc {
+	color: white;
+	float: right;
+}
+
+/*store*/
+
+.store-head {
+	float: left;
+	margin-right: 275px;
+}
+
+.row-item {
+	text-align: center;
+	font-size: 15px;
+}
+
+.cart {
+	padding-top: 21.5px;
+	color: white;
+}
+
+.orders {
+	float: right;
+	padding-top: 17px;
+	color: white;
+}
+
+.item {
+	padding-top: 35px;
+	color: black;
+	text-align: center;
+}
+
+.item-quantity {
+	color: black;
+}
+
+.item-img {
+	float: left;
+	padding-left: 20px;
+	width: 300px;
+	height: 350px;
+}	
+
+.adding-items {
+	text-align: center;
+}
+
+.cancel-items {
+	font-size: 22.5px;
+	margin:0 auto;
+    display:block;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
